@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let parent=document.getElementById("band");
+let parent=document.getElementById("bands");
 const tempDom=document.createDocumentFragment();
 const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'Norma Jean', 'The Bled', 'Say Anything', 'The Midway State', 'We Came as Romans', 'Counterparts', 'Oh, Sleeper', 'A Skylit Drive', 'Anywhere But Here', 'An Old Dog'];
 const articles=["A","An","The"]

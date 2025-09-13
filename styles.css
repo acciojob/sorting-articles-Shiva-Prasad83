@@ -6,7 +6,7 @@
 	display:flex;
 	justify-content:center;
 }
-#band{
+#bands{
 	background-color:white;
 	width:70%;
 	box-shadow:20px 0  #E2E1DF,-20px 0 #E2E1DF;
